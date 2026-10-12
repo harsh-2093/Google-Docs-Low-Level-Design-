@@ -1,1 +1,1 @@
-![LLD Diagram](./LLD.png)
+![LLD Diagram](./lld.png)
